@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
-	"golang_hse/src/bookstore"
-	"golang_hse/src/idgenerator"
-	"golang_hse/src/model"
-	"golang_hse/src/store"
+	"golang_hse/internal/bookstore"
+	"golang_hse/internal/idgenerator"
+	"golang_hse/internal/model"
+	"golang_hse/internal/store"
 )
 
 func main() {
